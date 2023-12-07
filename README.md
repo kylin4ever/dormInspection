@@ -1,2 +1,2 @@
-# dormInspection-
+# dormInspection
 查寝
